@@ -1,6 +1,6 @@
 # Scrabble Word Score App
 
-#### By: Jared Beckler | Epicodus | February 2016
+#### By: Jared Beckler | Epicodus | March 2016
 
 This project was used to get familiar with PHP/Silex/Twig/PHPUnit and will take a user inputted word and give them the Scrabble score of it.
 
